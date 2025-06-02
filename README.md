@@ -2,7 +2,6 @@
 # 🤖 CryptoBuddy - Your Friendly Crypto Advisor 
 
 ![Demo GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFoY3R5d3V5bGx4Z2R6dWY0M2JtYzV6dGJ6eHl1dGJmY3Z1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif)  
-*(Replace with your own demo GIF/screenshot!)*
 
 ## 🌟 What is CryptoBuddy?
 **CryptoBuddy** is a Python chatbot that helps you discover **profitable** and **eco-friendly** cryptocurrencies. It answers questions like:
